@@ -1,6 +1,7 @@
+#!/usr/bin/python3.10
+
 import socket
 import os
-
 
 SERVER_HOST = '0.0.0.0'
 SERVER_PORT = 8000
